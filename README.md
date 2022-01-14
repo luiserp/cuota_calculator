@@ -1,4 +1,4 @@
-# tareas-app
+# Cuota_calculator
 
 ## Project setup
 ```
