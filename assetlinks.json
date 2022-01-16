@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.bsydzj",
+      "sha256_cert_fingerprints": ["8A:AB:29:9E:B6:5C:7C:BF:2D:C1:D4:8A:E8:24:4D:65:5B:00:AE:DF:D2:4E:5D:5F:F5:DC:3D:16:C6:32:C3:C0"]
+    }
+  }
+]
