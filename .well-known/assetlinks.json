@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.azyglx",
+      "sha256_cert_fingerprints": ["68:19:EC:2F:B0:D0:27:4B:12:10:D2:3D:AE:61:73:F8:DA:9B:57:CB:D0:C6:D2:1F:D9:D4:E9:1C:78:30:A0:5A"]
+    }
+  }
+]
